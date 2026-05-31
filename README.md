@@ -1,2 +1,5 @@
 # P4P3R_TR41L
-A mini-CTF challenge made for SecDSM's June 2026 monthly meeting
+
+This internal portal (http://secdsm.iateched.org:8000/) has been running smoothly for years: reliable, professional, and secure--or so the devs claim... Somewhere between "move fast" and "we'll fix it later," something got left behind. Can you find it?
+
+> Note: the portal will become accessible on Thursday, June 4th. The source code will become available on Friday, June 5th.
